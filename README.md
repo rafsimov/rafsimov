@@ -1,4 +1,4 @@
-Hi ![176309783-0785949b-9127-417c-8b55-ab5a4333674e](https://github.com/llimonix/llimonix/assets/58168234/faa0d2eb-c6b4-4cea-a8df-89dcd7151d58) My name is Ilya Ageev
+Hi ![176309783-0785949b-9127-417c-8b55-ab5a4333674e](https://github.com/llimonix/llimonix/assets/58168234/faa0d2eb-c6b4-4cea-a8df-89dcd7151d58) My name is Ilya
 ======================================================================================================================================
 
 Python Developer
