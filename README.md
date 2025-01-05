@@ -15,5 +15,5 @@ Python Developer
 
 <b>My GitHub Stats</b>
 
-![rafsimov's Stats](https://github-readme-stats.vercel.app/api?username=rafsimov&theme=radical&show_icons=true&hide_border=true&count_private=true)<br/>
-![rafsimov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafsimov&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafsimov&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafsimov&theme=aura_dark)
