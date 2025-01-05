@@ -1,4 +1,4 @@
-![Описание картинки](header.png)
+<img src="header.png" alt="Описание картинки" style="border-radius: 15px;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rafsimov/rafsimov/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafsimov/rafsimov/refs/heads/output/github-contribution-grid-snake.svg" />
