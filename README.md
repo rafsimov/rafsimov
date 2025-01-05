@@ -1,10 +1,10 @@
-Hi ![176309783-0785949b-9127-417c-8b55-ab5a4333674e](https://github.com/llimonix/llimonix/assets/58168234/faa0d2eb-c6b4-4cea-a8df-89dcd7151d58) My name is Ilya
+Hi ![176309783-0785949b-9127-417c-8b55-ab5a4333674e](https://github.com/llimonix/llimonix/assets/58168234/faa0d2eb-c6b4-4cea-a8df-89dcd7151d58) I'm Ilya
 ======================================================================================================================================
 
 Python Developer
 ----------------
 
-I have been programming since 2023, actively delving into languages such as Python and JavaScript. I am also exploring HTML and CSS to broaden my skill set.
+I have been programming since 2023, actively delving into languages such as Python and JavaScript.
 
 * 🖥️  See my portfolio at [github](http://github.com/rafsimov?tab=repositories)
 * ✉️  You can contact me at [qasw20310@gmail.com](mailto:qasw20310@gmail.com)
