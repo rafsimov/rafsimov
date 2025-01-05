@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rafsimov/rafsimov/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafsimov/rafsimov/refs/heads/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rafsimov/rafsimov/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/rafsimov/rafsimov/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+have+been+programming+since+2023)](https://git.io/typing-svg)
