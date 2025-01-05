@@ -3,7 +3,10 @@ Hi ![176309783-0785949b-9127-417c-8b55-ab5a4333674e](https://github.com/llimonix
 Python Developer
 ----------------
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+have+been+programming+since+2023)](https://git.io/typing-svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
+  <img alt="github-snake" src="github-user-contribution.svg" />
+</picture>
 * 🖥️  See my portfolio at [github](http://github.com/rafsimov?tab=repositories)
 * ✉️  You can contact me at [qasw20310@gmail.com](mailto:qasw20310@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
