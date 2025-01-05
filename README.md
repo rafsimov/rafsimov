@@ -5,6 +5,7 @@ Python Developer
 ----------------
 
 I have been programming since 2023, actively delving into languages such as Python and JavaScript.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+have+been+programming+since+2023,+actively+delving+into+languages+such+as+Python+and+JavaScript.)](https://git.io/typing-svg)
 
 * 🖥️  See my portfolio at [github](http://github.com/rafsimov?tab=repositories)
 * ✉️  You can contact me at [qasw20310@gmail.com](mailto:qasw20310@gmail.com)
