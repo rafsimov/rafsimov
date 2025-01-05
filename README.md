@@ -12,5 +12,5 @@
 
 <b>My GitHub Stats</b>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafsimov&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafsimov&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafsimov&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafsimov&theme=aura)
